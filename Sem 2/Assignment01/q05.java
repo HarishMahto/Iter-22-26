@@ -1,3 +1,9 @@
+/*
+Write a java method to calculate the sum of digits of a given number until the number is a
+single digit. The method signature is as follows.
+
+public static int sum_Of_Digits(int n)
+*/
 
 public class q05 {
 
